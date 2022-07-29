@@ -1,2 +1,2 @@
 # Todo_list
-Live Preview:  https://todo-list-creative.netlify.app/
+Live Preview:  https://task-list-creative.netlify.app/
